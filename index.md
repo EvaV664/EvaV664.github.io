@@ -1,4 +1,3 @@
-# ✨ Eva Verkhovsky
 
 Hi! I’m Eva — a student passionate about **data**, **finance**, and the way they shape the world.  
 I use tools like **SQL**, **Python**, and **machine learning** to explore questions that matter and build clean, visual insights.
