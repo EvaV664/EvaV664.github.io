@@ -17,7 +17,7 @@ I use tools like **SQL**, **Python**, and **machine learning** to explore questi
 
 ### 📁 Data Science Salaries (SQL & Visualization)
 A deep dive into salaries across roles, experience levels, and work setups using SQL and Python.
-→ *Coming soon: [Project Page](./projects/sql-salaries.md)*
+→ [📓 View my Data Science Salary Analysis Notebook](./DataScience_Salaries_Analysis.ipynb)
 
 ### 💸 Stock Portfolio Simulator *(coming soon)*
 Simulating simple portfolios with Python, matplotlib, and pandas.
