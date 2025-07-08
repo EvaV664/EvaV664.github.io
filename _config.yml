@@ -4,7 +4,5 @@ theme: minima
 
 # Navigation Links
 nav:
-  - name: Home
-    link: /
   - name: SQL Project
     link: /DataScience_Salaries.html
