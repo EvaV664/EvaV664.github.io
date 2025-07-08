@@ -1,3 +1,10 @@
 title: Eva Verkhovsky Portfolio
 description: Data Science, SQL, and Python Projects
 theme: minima
+
+# Navigation Links
+nav:
+  - name: Home
+    link: /
+  - name: SQL Project
+    link: /DataScience_Salaries.html
