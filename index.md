@@ -10,3 +10,5 @@ This is my collection of SQL projects.
 
 - [Customer Analysis](project1.md)
 - [Sales Trends](project2.md)
+
+trigger rebuild
