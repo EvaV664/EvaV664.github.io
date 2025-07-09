@@ -43,7 +43,7 @@ The plot showed that the most frequent role was Machine Learning Engineer (88 li
 - Identification of outliers and patterns using boxplots
 
 🔗 **View the full notebook here:**  
-👉 [Open DataScience_Salaries HTML Report](../SQL%20with%20Python%20Project%20-%20DataScience_Salaries.html)
+👉 [Open DataScience_Salaries HTML Report](DataScience_Salaries.html)
 
 ---
 
