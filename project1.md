@@ -1,1 +1,5 @@
-First Project
+---
+layout: page
+title: SQL Project
+permalink: /project1/
+---
