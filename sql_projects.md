@@ -4,7 +4,7 @@ title: SQL Projects
 permalink: /sql_projects/
 ---
 
-## 📊 SQL with Python: Data Science Salaries Analysis
+## 📊 SQL with Python: Data Science Salaries Analysis → [📓 View Notebook](DataScience_Salaries.html)
 
 In this project, I explored a 2025 dataset of global data science, AI, and machine learning jobs. Using **SQLite3** and **Pandas**, I ran SQL queries to uncover salary trends based on experience, job category, and more. I also visualized the results using **Seaborn** and **Matplotlib**.
 
@@ -19,6 +19,7 @@ FROM DataScience_Salaries
 GROUP BY job_title
 ORDER BY COUNT(*) DESC
 LIMIT 5;
+```
 
 ### 🛠️ How I Did It
 1. I used a Python function called run_query() to execute the SQL statement and return the results as a Pandas DataFrame:
