@@ -22,6 +22,10 @@ I use tools like **SQL**, **Python**, and **machine learning** to explore questi
 A deep dive into salaries across roles, experience levels, and work setups using SQL and Python.
 → [📓 View Notebook](DataScience_Salaries.html)
 
+### 📁 Sales Insights with SQL & Python  
+Analyzed sales and customer data using SQL joins and Python. Visualized top customers, staff locations, and order revenues.  
+→ [📓 View Notebook](Sales_Insights.html)
+
 ### 💸 Stock Portfolio Simulator *(coming soon)*
 Simulating simple portfolios with Python, matplotlib, and pandas.
 
