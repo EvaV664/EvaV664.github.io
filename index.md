@@ -3,7 +3,8 @@ layout: home
 title: About
 ---
 
-Hi! I’m Eva — a student passionate about **data**, **finance**, and the way they shape the world.  
+Hi! I’m Eva — a 2nd-year University of Toronto student specializing in Statistics and majoring in Actuarial Science.
+I’m passionate about **data**, **finance**, and how they influence the world around us.
 I use tools like **SQL**, **Python**, and **machine learning** to explore questions that matter and build clean, visual insights.
 
 ---
