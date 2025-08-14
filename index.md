@@ -12,7 +12,7 @@ I use tools like **SQL**, **Python**, and **machine learning** to explore questi
 ## 🚀 What I’m Working On
 
 - 📊 **SQL Projects**: Analyzing real-world datasets like global salary trends  
-- 🤖 **Machine Learning**: Building predictive models with clean visualizations. [Click here to learn more about my ML skills](/machine-learning/)
+- 🤖 **Machine Learning**: Building predictive models with clean visualizations. [Click here to learn more about my ML skills!](/machine-learning/)
 - 💰 **Finance**: Exploring investing, stock market data, and portfolio analytics
 
 ---
