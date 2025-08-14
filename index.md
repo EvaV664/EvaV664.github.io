@@ -12,7 +12,7 @@ I use tools like **SQL**, **Python**, and **machine learning** to explore questi
 ## 🚀 What I’m Working On
 
 - 📊 **SQL Projects**: Analyzing real-world datasets like global salary trends  
-- 🤖 **Machine Learning**: Building predictive models with clean visualizations  
+- 🤖 **Machine Learning**: Building predictive models with clean visualizations. [learn more about my ML skills](/machine-learning/)
 - 💰 **Finance**: Exploring investing, stock market data, and portfolio analytics
 
 ---
@@ -29,12 +29,11 @@ Analyzed sales and customer data using SQL joins and Python. Visualized top cust
 
 → [📓 View Notebook](Sales_Insights.html)
 
+### 🧠 ML Model Explorer *(coming soon)*
+Training and tuning ML models — [learn more about my ML skills](/machine-learning/)
+
 ### 💸 Stock Portfolio Simulator *(coming soon)*
 Simulating simple portfolios with Python, matplotlib, and pandas.
-
-### 🧠 ML Model Explorer *(coming soon)*
-Training and tuning ML models — classification, regression, and more.
-
 ---
 
 ## 📬 Let’s Connect
