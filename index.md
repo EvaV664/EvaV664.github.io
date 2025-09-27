@@ -3,7 +3,7 @@ layout: home
 title: About
 ---
 
-Hi! I’m Eva — a 2nd-year University of Toronto student specializing in Statistics and majoring in Actuarial Science.
+Hi! I’m Eva — a second-year Statistics Specialist student at the University of Toronto, with a focus in Economics and a minor in Computer Science.
 I’m passionate about **data**, **finance**, and how they influence the world around us.
 I use tools like **SQL**, **Python**, and **machine learning** to explore questions that matter and build clean, visual insights.
 
